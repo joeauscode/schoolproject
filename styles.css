@@ -198,11 +198,14 @@ position: absolute;
 .formetor>button{
   padding: .5rem 0rem;
   background-color: #122432;
+  margin-top: 1rem;
   color: white;  
+  cursor: pointer;
 }
 .formetor>p{
-    font-size: 8px; 
-    font-weight: 600;
+    margin-top: 1rem;
+    font-size: 13px; 
+    font-weight: 300;
   }
 .formetor>.mss>input{
     padding: 3rem 0rem;
